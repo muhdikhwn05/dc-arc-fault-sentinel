@@ -2,7 +2,7 @@
 
 **Status:** Phase 1 (Proposal Submitted, Awaiting Grant)  
 **Competition:** Global Sustainability Challenge (GSC) 2026-2027  
-**Team:** OneSim  
+**Team:** OneSim  ( Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar )
 
 ## 📌 Project Overview
 This project introduces a high-immunity fire prevention system for solar PV and battery storage. By cross-referencing radio frequency (RF) transients with ultrasonic acoustic emissions, this sentinel drastically reduces false positive arc-fault detections compared to traditional single-domain systems.
