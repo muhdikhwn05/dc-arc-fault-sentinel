@@ -12,7 +12,7 @@ An integrated **Raspberry Pi Pico W** provides real-time **IoT web telemetry**. 
 ## 🗺️ System Architecture (Macro & Micro View)
 *The macro view demonstrates integration at the PV combiner box, while the micro view details the custom PCB connections including the SCT-013 clamp and TCT40-16R ultrasonic receiver.*[cite: 12]
 
-![System Architecture Diagram](https://github.com/user-attachments/assets/a6606a56-d110-47fc-805d-723e0c58f37b)
+![System Architecture Diagram](https://github.com/user-attachments/assets/28eb077f-e75d-4dfe-8e3b-76a3b07b4801)
 ## 🛠️ Hardware Design
 
 ### System Schematic
