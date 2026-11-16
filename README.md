@@ -1,12 +1,18 @@
-# Dual-Domain (RF & Ultrasonic) Series DC Arc-Fault Sentinel ⚡
+# Dual-Modal (RF & Ultrasonic) DC Arc-Fault Prevention System with IoT Diagnostics ⚡
 
 **Status:** Phase 1 (Proposal Submitted, Awaiting Grant)  
 **Competition:** Global Sustainability Challenge (GSC) 2026-2027  
-**Team:** OneSim  ( Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar )
+**Team:** OneSim (Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar)[cite: 11]
 
 ## 📌 Project Overview
-This project introduces a high-immunity fire prevention system for solar PV and battery storage. By cross-referencing radio frequency (RF) transients with ultrasonic acoustic emissions, this sentinel drastically reduces false positive arc-fault detections compared to traditional single-domain systems.
+This project introduces a high-immunity fire prevention system engineered for commercial rooftop PV installations (≤1000 V DC) and battery storage. By cross-referencing radio frequency (RF) transients with ultrasonic acoustic emissions, this sentinel drastically reduces false positive arc-fault detections caused by inverter switching noise. 
 
+An integrated **Raspberry Pi Pico W** provides real-time **IoT web telemetry**. It utilizes an asymmetric dual-core architecture: Core 0 handles safety-critical 5 kHz sampling and trip logic (<5 ms response time), while Core 1 hosts an IoT HTTP server to broadcast diagnostic data and trigger remote alerts to a web dashboard.
+
+## 🗺️ System Architecture (Macro & Micro View)
+*The macro view demonstrates integration at the PV combiner box, while the micro view details the custom PCB connections including the SCT-013 clamp and TCT40-16R ultrasonic receiver.*[cite: 12]
+
+![System Architecture Diagram](https://github.com/user-attachments/assets/a6606a56-d110-47fc-805d-723e0c58f37b)
 ## 🛠️ Hardware Design
 
 ### System Schematic
