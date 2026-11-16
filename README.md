@@ -20,7 +20,7 @@ This project introduces a high-immunity fire prevention system for solar PV and 
 
 ![PCB Layout](https://github.com/user-attachments/assets/c18ff75d-4414-4ecc-902c-34d89e2d2341)
 
-![3D Render](https://github.com/user-attachments/assets/331ae799-b342-4ee1-b606-c9efe6d8a02d)
+![3D Render](https://github.com/user-attachments/assets/23c5da36-6c99-4939-9fa2-7eb2c159f4b4)
 
 
 ## 📂 Repository Structure
