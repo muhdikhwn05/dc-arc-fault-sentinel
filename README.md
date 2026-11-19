@@ -1,6 +1,6 @@
 # Dual-Modal (RF & Ultrasonic) DC Arc-Fault Prevention System with IoT Diagnostics ⚡
 
-**Status:** Phase 1 (Proposal Submitted, Awaiting Grant)  
+**Status:** Phase 1 (Fund granted by UTM, building prototype)  
 **Competition:** Global Sustainability Challenge (GSC) 2026-2027  
 **Team:** OneSim (Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar)
 
