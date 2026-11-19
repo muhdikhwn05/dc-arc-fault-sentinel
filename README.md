@@ -2,7 +2,7 @@
 
 **Status:** Phase 1 (Proposal Submitted, Awaiting Grant)  
 **Competition:** Global Sustainability Challenge (GSC) 2026-2027  
-**Team:** OneSim (Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar)[cite: 11]
+**Team:** OneSim (Ikhwan(leader), Fadhli, Khairul Alif, Akif, Umar)
 
 ## 📌 Project Overview
 This project introduces a high-immunity fire prevention system engineered for commercial rooftop PV installations (≤1000 V DC) and battery storage. By cross-referencing radio frequency (RF) transients with ultrasonic acoustic emissions, this sentinel drastically reduces false positive arc-fault detections caused by inverter switching noise. 
@@ -10,7 +10,7 @@ This project introduces a high-immunity fire prevention system engineered for co
 An integrated **Raspberry Pi Pico W** provides real-time **IoT web telemetry**. It utilizes an asymmetric dual-core architecture: Core 0 handles safety-critical 5 kHz sampling and trip logic (<5 ms response time), while Core 1 hosts an IoT HTTP server to broadcast diagnostic data and trigger remote alerts to a web dashboard.
 
 ## 🗺️ System Architecture (Macro & Micro View)
-*The macro view demonstrates integration at the PV combiner box, while the micro view details the custom PCB connections including the SCT-013 clamp and TCT40-16R ultrasonic receiver.*[cite: 12]
+*The macro view demonstrates integration at the PV combiner box, while the micro view details the custom PCB connections including the SCT-013 clamp and TCT40-16R ultrasonic receiver.*
 
 ![System Architecture Diagram](https://github.com/user-attachments/assets/28eb077f-e75d-4dfe-8e3b-76a3b07b4801)
 ## 🛠️ Hardware Design
