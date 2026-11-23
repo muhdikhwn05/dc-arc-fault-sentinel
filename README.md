@@ -28,6 +28,8 @@ An integrated **Raspberry Pi Pico W** provides real-time **IoT web telemetry**. 
 
 ![3D Render](https://github.com/user-attachments/assets/23c5da36-6c99-4939-9fa2-7eb2c159f4b4)
 
+![TransientResponse] (https://github.com/user-attachments/assets/eba6012b-ce7a-4315-bf15-274d6347844a)
+
 
 ## 📂 Repository Structure
 * `/Hardware` - KiCad project files, schematics, and custom component footprints.
